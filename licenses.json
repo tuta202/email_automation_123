@@ -1,0 +1,12 @@
+{
+  "licenses": {
+    "123e4567-e89b-12d3-a456-426614174000": {
+      "status": "valid",
+      "expiry_date": "2025-12-31"
+    },
+    "another-key": {
+      "status": "valid",
+      "expiry_date": "2024-12-31"
+    }
+  }
+}
